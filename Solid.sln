@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP", "LSP\LSP.csproj", "{1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISP", "ISP\ISP.csproj", "{BE519927-DA49-4DA8-AA29-2108820C5D44}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP", "DIP\DIP.csproj", "{B8B67C25-64B7-46EE-A111-0475F6E22E15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BE519927-DA49-4DA8-AA29-2108820C5D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE519927-DA49-4DA8-AA29-2108820C5D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE519927-DA49-4DA8-AA29-2108820C5D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B67C25-64B7-46EE-A111-0475F6E22E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B67C25-64B7-46EE-A111-0475F6E22E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B67C25-64B7-46EE-A111-0475F6E22E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B67C25-64B7-46EE-A111-0475F6E22E15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
